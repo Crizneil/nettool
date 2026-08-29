@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "unit": "K335",
+        "concern": "slow internet",
+        "status": "DONE",
+        "created": "2026-08-29 12:14:38",
+        "completed": "2026-08-29 12:19:01"
+    },
+    {
+        "id": 2,
+        "unit": "K526",
+        "concern": "slow",
+        "status": "PENDING",
+        "created": "2026-08-29 12:19:19",
+        "completed": null
+    },
+    {
+        "id": 3,
+        "unit": "J567",
+        "concern": "no internet",
+        "status": "DONE",
+        "created": "2026-08-29 12:19:35",
+        "completed": "2026-08-29 12:19:50"
+    }
+]
