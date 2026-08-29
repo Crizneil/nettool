@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from converters import convert_ppoe, convert_static
 from diagnostics import internet_diagnostics, speed_test
 from concerns import concern_tracker
